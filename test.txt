@@ -1,2 +1,1 @@
 This is the empty file.
-Adding a new line to this file.
